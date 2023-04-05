@@ -44,6 +44,6 @@
     position: absolute;
     bottom: 0px;
 }
-.product-btn :hover{
+.product-btn:hover{
     background-color: orange;
 }
